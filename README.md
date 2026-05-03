@@ -1,6 +1,5 @@
 # 📄 README — NOTIFICAÇÕES
 
-```markdown
 # 🔔 Sistema de Notificações (Factory Method)
 
 Projeto em Java que implementa envio de notificações usando o padrão Factory Method.
@@ -24,5 +23,7 @@ br.fatec
 ## ▶️ Execução
 ```bash
 java br.fatec.cliente.Main
+```
+
 📌 Padrão
 Factory Method
