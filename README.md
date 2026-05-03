@@ -14,9 +14,9 @@ Permite criar diferentes tipos de notificações sem acoplamento direto.
 
 ## 🏗️ Estrutura
 
-br.fatec
-├── cliente
-├── factory
+br.fatec <br>
+├── cliente <br>
+├── factory <br>
 └── model
 
 
